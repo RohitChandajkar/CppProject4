@@ -1,5 +1,5 @@
 # CppProject4
-# README: Half Section View of 3D Object using STL File
+#  Half Section View of 3D Object using STL File
 
 This README provides a detailed guide on how to create a half section view of a 3D object using an STL (Stereolithography) file. The half section view enhances visualization by revealing internal structures and details of the object. This guide covers the process step-by-step.
 
